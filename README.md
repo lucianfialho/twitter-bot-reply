@@ -35,7 +35,8 @@ TWITTER_PASSWORD=<Sua Senha do Twitter>
 PROMPT=<Seu Prompt Personalizado para a OpenAI>
 TWITTER_URL_TO_FETCH=<URL do Perfil do Twitter ou url da hashtag para Monitorar>
 RANDOM_STATIC_TWEETS=comentário1,comentário2,comentário3
-
+LINKEDIN_USER_NAME=username
+LINKEDIN_PASSWORD=password
 ```
 
 ### Funções
